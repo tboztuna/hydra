@@ -1,2 +1,2 @@
 # hydra
-Hydra project mentioned in https://www.udemy.com/mastering-go-programming
+Hydra project: https://www.udemy.com/mastering-go-programming
